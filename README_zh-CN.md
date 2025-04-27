@@ -57,3 +57,9 @@
 [mrna.app](https://mrna.app/) 将必要工具整合到一个集成平台中，消除了工作流程的低效性，加速了从序列分析到应用开发的路径。无论您是在设计下一代 mRNA 疫苗，开发治疗应用，还是研究基础 mRNA 生物学，mrna.app 都能提供推动研究进展所需的工具。
 
 立即访问 [mrna.app](https://mrna.app/)，探索我们的集成平台如何改变您的 mRNA 研究工作流程。
+
+![mrna.app1](https://sequence.mrna.app/mrna_app1.jpg)
+
+![mrna.app2](https://sequence.mrna.app/mrna_app2.jpg)
+
+![mrna.app3](https://sequence.mrna.app/mrna_app3.jpg)
